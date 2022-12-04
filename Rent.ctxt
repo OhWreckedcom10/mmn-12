@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Rent
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=custName\ car\ pickDate\ returnDate
+comment2.target=Rent(java.lang.String,\ Car,\ Date,\ Date)
+comment3.params=other
+comment3.target=Rent(Rent)
+comment4.params=other
+comment4.target=boolean\ equals(Rent)
+comment5.params=
+comment5.target=int\ howManyDays()
+comment6.params=
+comment6.target=int\ getPrice()
+comment7.params=newCar
+comment7.target=int\ upgrade(Car)
+comment8.params=other
+comment8.target=Rent\ overlap(Rent)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
